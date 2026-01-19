@@ -1,0 +1,1 @@
+git tracks changes in files. each commit has a message.
